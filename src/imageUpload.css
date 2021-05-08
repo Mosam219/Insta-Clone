@@ -1,0 +1,33 @@
+.imageUpload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* position: fixed;
+  bottom: 0; */
+  background-color: white;
+  border-top: 1px solid lightgray;
+}
+.imageUpload__progress {
+  width: 100%;
+  margin-top: 3px;
+}
+
+.imageup__button {
+  margin: 20px;
+}
+.imageup__text {
+  margin-top: 10px;
+  width: 60%;
+  text-align: center;
+}
+.imageup__file {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 60%;
+  align-items: center;
+  justify-content: center;
+}
